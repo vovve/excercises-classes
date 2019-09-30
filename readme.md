@@ -1,4 +1,5 @@
 # Klasser
+
 ## Övning 1 - del 1
 
 Skapa en klass för ditt favoritdjur. Skapa klassmedlemmar (både variabler & metoder) som du tycker är lämpliga. T.ex. kan djuret innehålla 
