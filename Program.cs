@@ -12,7 +12,7 @@ namespace excercises_classes
             myDog.age = 13;
             myDog.name = "Peps Persson";
             myDog.race = "Griffon Belge";
-
+            myDog.bark();            
         }
     }
 }
